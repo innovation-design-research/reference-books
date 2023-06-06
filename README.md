@@ -1,2 +1,2 @@
 # books
-Reference books for the material tech, ai and innovation design ecosystem
+Reference books for the innovation design engineering ecosystem
